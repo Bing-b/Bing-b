@@ -1,18 +1,13 @@
-## Hi there 👋
+## Hi  👋
+📚 About Me
+Continuous Learner | Tech Blogger | Open Source Enthusiast
 
-<!--
-**Bing-b/Bing-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Connect through my technical blogs:
 
-Here are some ideas to get you started:
+CSDN Blog: https://blog.csdn.net/Centenario_0
+掘金 Blog: https://juejin.cn/user/1007568465429656
+🌟 My Learning Philosophy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"There is only one kind of heroism in the world: to love life after knowing its truth."
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
