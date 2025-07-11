@@ -12,4 +12,4 @@ Continuous Learner | Tech Blogger | Open Source Enthusiast
 
 "There is only one kind of heroism in the world: to love life after knowing its truth."
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
