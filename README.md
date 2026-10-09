@@ -3,6 +3,8 @@
 Continuous Learner | Tech Blogger | Open Source Enthusiast
 
 🔗 Connect through my technical blogs:
+- info: https://personwebsite-be0.pages.dev
+  
 - Blog: https://banbing.pages.dev
 
 - CSDN: https://blog.csdn.net/Centenario_0
